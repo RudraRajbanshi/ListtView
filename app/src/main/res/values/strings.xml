@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListtView</string>
+
+    <string-array name="listValues">
+        <item>Nepal</item>
+        <item>USA</item>
+        <item>UK</item>
+    </string-array>
+</resources>
